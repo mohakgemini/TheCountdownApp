@@ -9,6 +9,7 @@ const useStyles = createUseStyles({
   },
   countdown: {
     fontSize: "4em",
+    fontFamily: 'Tahoma',
     textShadow: "1px 1px 4px #fff",
     fontWeight: "bold",
     zIndex: 2,
